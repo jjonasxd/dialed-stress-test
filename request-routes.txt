@@ -1,0 +1,7 @@
+Host
+color: https://dialed-api-production.onrender.com/api/color/lobby/join
+color2: https://dialed-api-production.onrender.com/api/color2/lobby/join
+
+Challenge:
+color: https://dialed-api-production.onrender.com/api/color/challenge/999999
+color2: https://dialed-api-production.onrender.com/api/color2/challenge/999999

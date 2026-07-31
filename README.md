@@ -15,7 +15,7 @@ Ferramenta desenvolvida para testar e validar rotas da API REST (GET e POST) da 
 * [Python 3.x](https://www.python.org/) instalado.
 
 ### Passo a passo
-1. Baixe o [Repositório]()
+1. Baixe o [Repositório](https://github.com/jjonasxd/dialed-stress-test/archive/refs/heads/main.zip)
 2. Extraia o .zip
 3. Crie um ambiente virtual e instale as dependencias:
 ```bash
@@ -31,7 +31,7 @@ pip install httpx
 ```
 ## Atenção ⚠️ Dialed 🔗
 
-Este projeto não tem nenhuma afiliação com o dialed.gg; serve apenas como plataforma de teste legal. Não incentivamos o uso indevido do projeto.
+Este projeto não tem nenhuma afiliação com o [dialed.gg](https://dialed.gg); serve apenas como plataforma de teste legal. Não incentivamos o uso indevido do projeto.
 
 ## Rota achada
 ![text](img/image.png "rota achada")

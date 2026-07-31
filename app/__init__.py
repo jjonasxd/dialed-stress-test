@@ -23,7 +23,7 @@ def create_app(debug: bool):
         'logs': True,
         'status_protection': True, # em desenvolvimento, Cancela o programa se tiver muitos 429 ou 5xx errors
         'timeout': {
-            'time': '999' # em segundos
+            'time': '10' # em segundos
         }
     }
 

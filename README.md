@@ -12,10 +12,10 @@ Ferramenta desenvolvida para testar e validar rotas da API REST (GET e POST) da 
 
 ## Guide 📚
 ### Pré-requisitos
-* [Python 3.x](https://www.python.org/) instalado.
+* [Python 3.x](https://www.python.org/downloads) instalado.
 
 ### Passo a passo
-1. Baixe o [Repositório](https://github.com/jjonasxd/dialed-stress-test/archive/refs/heads/main.zip)
+1. Baixe a [Release](https://github.com/jjonasxd/dialed-stress-test/releases/tag/1.0.0)
 2. Extraia o .zip
 3. Crie um ambiente virtual e instale as dependencias:
 ```bash
